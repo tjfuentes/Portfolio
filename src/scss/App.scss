@@ -399,26 +399,26 @@ footer {
   .main-container { 
     display: flex;
     flex-direction: column;
+    width: 125vw;
 
 
     .section-container {
-      overflow: hidden;  
 
 
       .intro {
         width: 50vw;
         transform: translateY(-20%);
-        transform: translateX(-20%);
+        transform: translateX(-10%);
 
         img {
-          width: 12rem;
-          height: 12rem;
+          width: 8rem;
+          height: 8rem;
         }
       }
 
       
       .soc-med {
-
+        font-size: 1.5rem;
       }
     }
 
@@ -426,9 +426,9 @@ footer {
 
 
       h1 {
-        font-size: 3rem;
+        font-size: 2rem;
         text-transform: uppercase;
-        letter-spacing: .5rem;
+        letter-spacing: .3rem;
         color: #2ed081;
         padding: 2rem;
       }
@@ -444,7 +444,7 @@ footer {
           justify-content: center;
           gap: 1rem;
           align-items: center;
-          width: 25vw;
+          width: 32vw;
           height: 30vh;
           background: #323233;
           border-radius: 10px;
@@ -472,12 +472,13 @@ footer {
     
             h2 {
               font-size: 1rem;
+              letter-spacing: .3rem;
               color: #2ed081;
             }
     
             p {
               width: 20vw;
-              font-size: .8rem;
+              font-size: .4rem;
               text-wrap: wrap;
             }
   
@@ -500,27 +501,31 @@ footer {
       height: 40vh;
 
       h1 {
-        font-size: 3rem;
+        font-size: 2rem;
         color: #2ed081;
         padding: 2rem;
       }
 
       .content {
+        width: 110vw;
         display: grid;
         grid-auto-flow: column;
         place-items: center;
         position: relative;
         top: 15%;
+        overflow-x: scroll;
+        gap: 1rem;
 
         .content-item {
           place-content: center;
 
           .fa-brands,.fa-solid {
-            font-size: 3rem;
-            color: #359b71;
+            font-size: 4rem;
+            color: #d8bd22;
           }
 
           h2 {
+            display: none;
             padding: 0;
             font-size: 1.3rem;
             color: #d8bd22;
@@ -535,6 +540,7 @@ footer {
     background-color: #323233;
     bottom: 0;
     height: 5vh;
+    width: 132.5vw;
   
     h2 {
       display: none;
@@ -564,7 +570,7 @@ footer {
     ul {
       list-style: none;
       position: absolute;
-      right: 3%;
+      right: 0%;
       bottom: 5%;
       letter-spacing: 3rem;
   

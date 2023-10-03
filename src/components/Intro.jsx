@@ -14,9 +14,6 @@ const Intro = () => {
         <i className='bx bxl-linkedin-square'></i>
         <i className='bx bxl-github' ></i>
       </div>
-
-      <h2 className="background1">Full Stack Web Developer</h2>
-      <h2 className="background2">Full Stack Web Developer</h2>
     </section>
   )
 }

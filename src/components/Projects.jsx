@@ -20,7 +20,7 @@ const Projects = () => {
         <div className="card">
           <img src="./images/img4.jpg" alt="img3" />
           <div className="details">
-            <h2>Color Hue Prints</h2>
+            <h2>Color Hue </h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam numquam incidunt assumenda nostrum maxime nulla explicabo, nam neque deleniti a.</p>
             <i className='bx bx-link-external'></i>
           </div>

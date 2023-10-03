@@ -9,9 +9,7 @@ const Projects = () => {
 
       <div className="cards">
         <div className="card">
-          <div className="card-img">
-            <img src="./images/img3.jpg" alt="img3" />
-          </div>
+          <img src="./images/img3.jpg" alt="img3" />
           <div className="details">
             <h2>F2P Gaming</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam numquam incidunt assumenda nostrum maxime nulla explicabo, nam neque deleniti a.</p>
@@ -20,9 +18,7 @@ const Projects = () => {
         </div>    
             
         <div className="card">
-          <div className="card-img">
-            <img src="./images/img4.jpg" alt="img3" />
-          </div>
+          <img src="./images/img4.jpg" alt="img3" />
           <div className="details">
             <h2>Color Hue Prints</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam numquam incidunt assumenda nostrum maxime nulla explicabo, nam neque deleniti a.</p>
@@ -30,9 +26,7 @@ const Projects = () => {
           </div>
         </div>    
         <div className="card">
-          <div className="card-img">
             <img src="./images/img5.jpg" alt="img3" />
-          </div>
           <div className="details">
             <h2>Fitness</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam numquam incidunt assumenda nostrum maxime nulla explicabo, nam neque deleniti a.</p>

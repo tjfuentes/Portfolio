@@ -7,7 +7,7 @@ const Skills = () => {
     <section className="skills-container">
         <h1>Languages & Frameworks</h1>
 
-        <div className="content">
+        <div className="content" data-aos="fade-left" data-aos-duration="3000">
           <div className="content-item">
             <i className="fa-brands fa-html5"></i>
             <h2>HTML5</h2>

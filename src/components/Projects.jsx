@@ -21,7 +21,7 @@ const Projects = () => {
           <img src="./images/img4.jpg" alt="img3" />
           <div className="details">
             <h2>Color Hue </h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam numquam incidunt assumenda nostrum maxime nulla explicabo, nam neque deleniti a.</p>
+            <p>Discover seamless printing solutions tailored to your needs at our Printing Services.</p>
             <Link to="https://f2p-games-rose.vercel.app/"><i className='bx bx-link-external'></i></Link>
           </div>
         </div>    
@@ -29,7 +29,7 @@ const Projects = () => {
             <img src="./images/img5.jpg" alt="img3" />
           <div className="details">
             <h2>Tic Tac Toe</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam numquam incidunt assumenda nostrum maxime nulla explicabo, nam neque deleniti a.</p>
+            <p>tic-tac-toe helps children develop their spatial skills.</p>
             <Link to="https://tjfuentes.github.io/tic-tac-toe/"><i className='bx bx-link-external'></i></Link>
           </div>
         </div>    

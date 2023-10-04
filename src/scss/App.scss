@@ -36,6 +36,18 @@ body {
       gap: 1rem;
       flex-direction: column;
 
+      h1 {
+        padding: 1rem;
+        width: 30vw;
+        overflow-wrap: break-word;
+        text-wrap: wrap;
+
+        span {
+          color: #2ed081;
+          text-transform: uppercase;
+        }
+      }
+
 
       img {
         width: 9rem;
@@ -228,16 +240,23 @@ footer {
         transform: translateY(-20%);
         transform: translateX(-20%);
 
+        h1 {
+          font-size: 1rem;
+        }
+
         img {
-          width: 12rem;
-          height: 12rem;
+          width: 8rem;
+          height: 8rem;
+          transform: translateY(8%);
         }
       }
 
-      
-      .soc-med {
-
+      .soc-med{
+        
+        border: 1px solid gray;
       }
+
+      
     }
 
     .projects-container {
@@ -409,6 +428,11 @@ footer {
         width: 50vw;
         transform: translateY(-20%);
         transform: translateX(-10%);
+
+        h1 {
+          width: 50vw;
+          font-size: .5rem;
+        }
 
         img {
           width: 8rem;

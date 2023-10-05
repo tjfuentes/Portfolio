@@ -26,7 +26,7 @@ const Projects = () => {
           </div>
         </div>    
         <div className="card">
-            <img src="./images/img5.jpg" alt="img3" />
+            <img src="./images/tictactoe.png" alt="img3" />
           <div className="details">
             <h2>Tic Tac Toe</h2>
             <p>tic-tac-toe helps children develop their spatial skills.</p>

@@ -30,7 +30,7 @@ const Projects = () => {
           <div className="details">
             <h2>Tic Tac Toe</h2>
             <p>tic-tac-toe helps children develop their spatial skills.</p>
-            <Link to="https://tjfuentes.github.io/tic-tac-toe/"><i className='bx bx-link-external'></i></Link>
+            <Link to="https://tic-tac-toe-olive-rho.vercel.app/"><i className='bx bx-link-external'></i></Link>
           </div>
         </div>    
 
